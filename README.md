@@ -13,7 +13,7 @@ menunjukkan bahwa lingkungan pengembangan web lokal (web server dan database) pa
 langkah-langkah dalam mengelola database menggunakan phpMyAdmin pada lingkungan lokal `(http://localhost)`.
 1.  `(Membuat Database1.jpg)`: Menunjukkan proses pembuatan database baru. Database diberi nama latihan1 dengan collation utf8mb4_general_ci.
 <img width="1918" height="1017" alt="Membuat Database1" src="https://github.com/user-attachments/assets/553a4d43-8c8e-4136-8c06-d8735e624ebf" />
-2.  `(Membuat Database2.jpg)`: Menunjukkan struktur dari sebuah tabel di dalam database. Nama tabelnya adalah tbl_barang `(kemungkinan besar di dalam database latihan1 atau database lain bernama latihan)`. Tabel ini memiliki kolom-kolom untuk data barang seperti id_barang `(PRIMARY KEY, AUTO_INCREMENT)`, kategori, nama, gambar, harga_beli `(DECIMAL)`, harga_jual `(DECIMAL)`, dan stok.
+2.  (Membuat Database2.jpg): Menunjukkan struktur dari sebuah tabel di dalam database. Nama tabelnya adalah tbl_barang `(kemungkinan besar di dalam database latihan1 atau database lain bernama latihan)`. Tabel ini memiliki kolom-kolom untuk data barang seperti id_barang `(PRIMARY KEY, AUTO_INCREMENT)`, kategori, nama, gambar, harga_beli `(DECIMAL)`, harga_jual `(DECIMAL)`, dan stok.
 <img width="1918" height="1018" alt="Membuat Database2" src="https://github.com/user-attachments/assets/7ca73746-4b6e-4349-95bd-07ddbc4fcfea" />
 
 ### Membuat Tabel 
